@@ -3,6 +3,6 @@
 Unzip the project
 
 
-Start npm i
+npm i
 
-Start ng serve -o
+ng serve -o
